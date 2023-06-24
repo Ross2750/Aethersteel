@@ -1,7 +1,3 @@
-# [!] Installing any mods is not recommended right now, [read this article for more information](https://support.curseforge.com/en/support/solutions/articles/9000228509-june-2023-infected-mods-detection-tool)
-
-* * *
-
 ![](https://cdn.discordapp.com/attachments/1097808910817177663/1109077628922638428/banner.png)
 
 * * *
