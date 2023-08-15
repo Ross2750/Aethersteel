@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1097808910817177663/1109077628922638428/banner.png)
+![](https://i.imgur.com/pTY3IR2.png)
 
 * * *
 
