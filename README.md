@@ -2,9 +2,16 @@
 
 * * *
 
-This mod adds new ingot called Aethersteel which is stronger than Netherite
+### Welcome To Aethersteel!
+- This mod adds new ingot called Aethersteel which is stronger than Netherite.
+- To make Aethersteel Ingot, You need to find Aether Debris between Y-25 to Y-64 in Aetherslate cave, Then smelt Aethersteel Debris
+and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
+- You can upgrade to Aethersteel Tools by putting  Aethersteel Template, any Netherite Tool and Aethersteel Ingot.
+- Aethersteel Armor supports Trims too so you can decorate it with any style. (1.19.4 and 1.20.1 only)
 
-### Items and Tools
+* * *
+<p><img src="https://i.imgur.com/06pWLwa.png" /></p>
+<p><img src="https://i.imgur.com/hvZrSQf.png" /></p>
 
 - Aethersteel Pickaxe
 - Aethersteel Axe
@@ -17,7 +24,8 @@ This mod adds new ingot called Aethersteel which is stronger than Netherite
 - Aethersteel Leggings
 - Aethersteel Boots
 
-### Blocks
+<p><img src="https://i.imgur.com/tz23Tgm.png" /></p>
+
 - Aethersteel Block
 - Aethersteel Slab
 - Aethersteel Stairs
