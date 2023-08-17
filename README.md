@@ -61,7 +61,7 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot on Smithin
 - Cracked Aetherslate Bricks and Tiles
 - Suspicious Aetherslate, Deepslate and Stone
 
-If you install [Oaks Nature](https://modrinth.com/mod/oaks-nature) you can use this following block in survival _(1.19.2 only)_
+If you install [Oaks Nature](https://modrinth.com/mod/oaks-nature) you can use this following block in survival _(1.19.2 and 1.19.4 only)_
 
 - Aethersteel Painted Hollow Log
 - Aethersteel Painted Stripped Hollow Log
