@@ -13,6 +13,11 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot on Smithin
 <p><img src="https://i.imgur.com/06pWLwa.png" /></p>
 <p><img src="https://i.imgur.com/hvZrSQf.png" /></p>
 
+- Aethersteel Scrap
+- Aethersteel Ingot
+- Aethersteel Nugget
+- Aethersteel Template
+- Melted Aethersteel
 - Aethersteel Pickaxe
 - Aethersteel Axe
 - Aethersteel Hoe
@@ -23,14 +28,17 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot on Smithin
 - Aethersteel Chestplate
 - Aethersteel Leggings
 - Aethersteel Boots
+- Aethersteel Spray Paint
 
 <p><img src="https://i.imgur.com/tz23Tgm.png" /></p>
 
+- Aether Debris
 - Aethersteel Block
 - Aethersteel Slab
 - Aethersteel Stairs
 - Aethersteel Door
 - Aethersteel Trapdoor
+- Aethersteel Chain
 - Aethersteel Painted Log
 - Aethersteel Painted Wood
 - Aethersteel Painted Striped Log
@@ -44,9 +52,9 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot on Smithin
 - Aethersteel Painted Fence Gate
 - Aethersteel Painted Button
 - Aethersteel Painted Pressure Plate
-- Aether Debris
 - Aetherslate
 - Cobbled Aetherslate Slabs, Stairs and Wall
+- Aetherslate Ores
 - Aetherslate Bricks Slabs, Stairs and Wall
 - Aetherslate Tiles Slabs, Stairs and Wall
 - Polished Aetherslate Slabs, Stairs and Wall
