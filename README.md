@@ -12,7 +12,7 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 * * *
 <p><img src="https://i.imgur.com/06pWLwa.png" /></p>
 
-<p><img src="https://i.imgur.com/hvZrSQf.png" /></p>
+<p><img src="https://i.imgur.com/LTl562K.png" /></p>
 
 - Aethersteel Scrap
 - Aethersteel Ingot
