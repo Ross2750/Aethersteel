@@ -49,6 +49,11 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 
 To see all recipes use [JEI](https://modrinth.com/mod/jei)
 
+### Supported Mods
+[Iron Bookshelves](https://modrinth.com/mod/iron-bookshelves)
+
+[Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+
 * * *
 
 ### FAQs
