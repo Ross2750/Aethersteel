@@ -76,3 +76,8 @@ Yes, But do not put the link on link shortener like AdFly
 [Aethersteel Texture Pack](https://cdn.discordapp.com/attachments/1097808910817177663/1099984531844505712/Aethersteel_Texturepack_v0.1.0.zip) - Thanks to [continuedoak](https://modrinth.com/user/ContinuedOak) for the resource pack
 
 [Aethersteel Legacy](https://cdn.discordapp.com/attachments/1097808910817177663/1109071915462688821/Aethersteel_Legacy.zip) - Old Textures of Aethersteel before v3.5
+
+* * *
+
+### Download
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/aethersteel) | [Modrinth](https://modrinth.com/mod/aethersteel)
