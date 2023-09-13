@@ -80,4 +80,4 @@ Yes, But do not put the link on link shortener like AdFly
 * * *
 
 ### Download
-[CurseForge](https://www.curseforge.com/minecraft/mc-mods/aethersteel) | [Modrinth](https://modrinth.com/mod/aethersteel)
+### [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aethersteel) | [Modrinth](https://modrinth.com/mod/aethersteel)
