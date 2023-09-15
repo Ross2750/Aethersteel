@@ -24,6 +24,7 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 - Aethersteel Shears
 - Aethersteel Shovel
 - Aethersteel Sword
+- Aethersteel Knife
 - Aethersteel Helmet
 - Aethersteel Chestplate
 - Aethersteel Leggings
