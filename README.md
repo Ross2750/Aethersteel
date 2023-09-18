@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/pTY3IR2.png" /></p>
+<p><img src="https://i.imgur.com/IZgYyN1.png" /></p>
 
 * * *
 ### Welcome To Aethersteel!
