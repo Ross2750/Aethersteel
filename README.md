@@ -33,9 +33,7 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 <p><img src="https://i.imgur.com/Xxp4Zum.png" /></p>
 
 - Aether Debris
-- Aethersteel Block
-- Aethersteel Slab
-- Aethersteel Stairs
+- Aethersteel Block, Slab and Stairs
 - Aethersteel Door
 - Aethersteel Trapdoor
 - Aethersteel Chain
