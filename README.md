@@ -55,18 +55,17 @@ To see all recipes use [JEI](https://modrinth.com/mod/jei)
 * * *
 
 ### FAQs
+Can I make a modpack with this mod?
 
-Can I make this a modpack?
+Yes, you can add this mod on your modpacks.
 
-Yes, But you need to put credit in your description
+Can make a addon for this mod?
 
-Can make a addon on this mod?
+Yes, you can make addon for this mod.
 
-Yes, But you need to put credit in your description
+Can I put this mod in other websites?
 
-Can I put this in other websites?
-
-Yes, But do not put the link on link shortener like AdFly
+No, you cannot put this mod on other mod hosting sites.
 
 * * *
 
