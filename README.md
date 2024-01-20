@@ -43,7 +43,7 @@ and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 - Aetherslate Tiles Slabs, Stairs and Wall
 - Polished Aetherslate Slabs, Stairs and Wall
 - Cracked Aetherslate Bricks and Tiles
-- Suspicious Aetherslate, Deepslate and Stone
+- Suspicious Aetherslate
 
 To see all recipes use [JEI](https://modrinth.com/mod/jei)
 
