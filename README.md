@@ -7,7 +7,7 @@
 and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
 - You can get Aethersteel Upgrade Template by mining Suspicious Aetherslate.
 - You can upgrade to Aethersteel Tools by putting Aethersteel Template, any Netherite Tool and Aethersteel Ingot on Smithing Table.
-- Aethersteel Armor supports Trims too so you can decorate it with any style. *(1.19.4 and 1.20.1 only)*
+- Aethersteel Armor supports Trims too. *(1.19.4 and 1.20.1 only)*
 
 * * *
 <p><img src="https://i.imgur.com/06pWLwa.png" /></p>
