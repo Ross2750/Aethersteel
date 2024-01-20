@@ -3,10 +3,10 @@
 * * *
 ### Welcome To Aethersteel!
 - This mod adds new ingot called Aethersteel which is stronger than Netherite.
-- To make Aethersteel Ingot, You need to find Aether Debris between y-48 to y-64 in Aetherslate cave, Then smelt Aethersteel Debris
+- To make Aethersteel Ingot, then find Aether Debris between y-44 to y-64 in Aetherslate cave, and then smelt Aethersteel Debris
 and craft Aethersteel using 4 Aethersteel Scrap and 4 Netherite Ingot.
-- You can get Aethersteel Upgrade Template by mining Suspicious Aetherslate.
-- You can upgrade to Aethersteel Tools by putting Aethersteel Template, any Netherite Tool and Aethersteel Ingot on Smithing Table.
+- Aethersteel Upgrade Template can be obtain by mining Suspicious Aetherslate.
+- To upgrade on Aethersteel Tools, put Aethersteel Template, any Netherite Tool and Aethersteel Ingot on Smithing Table.
 - Aethersteel Armor supports Trims too. *(1.19.4 and 1.20.1 only)*
 
 * * *
