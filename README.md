@@ -69,6 +69,13 @@ No, you cannot put this mod on other mod hosting sites.
 
 * * *
 
+### Mod Showcase Video:
+
+[![Video](https://img.youtube.com/vi/uC9b5s8OHs4/0.jpg)](https://www.youtube.com/watch?v=uC9b5s8OHs4)
+[![Video](https://img.youtube.com/vi/xffBhQ9Yo2U/0.jpg)](https://www.youtube.com/watch?v=xffBhQ9Yo2U)
+[![Video](https://img.youtube.com/vi/HWSABq9cp0E/0.jpg)](https://www.youtube.com/watch?v=HWSABq9cp0E)
+* * *
+
 ### Texture Packs  
 [Aethersteel Texture Pack](https://cdn.discordapp.com/attachments/1097808910817177663/1099984531844505712/Aethersteel_Texturepack_v0.1.0.zip) - Thanks to [continuedoak](https://modrinth.com/user/ContinuedOak) for the resource pack
 
