@@ -1,6 +1,3 @@
-### Happy 1st Birthday Aethersteel!
-* * *
-
 <p><img src="https://i.imgur.com/IZgYyN1.png" /></p>
 
 * * *
