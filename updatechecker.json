@@ -1,9 +1,10 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/aethersteel",
+  "homepage": "https://modrinth.com/mod/aethersteel/",
   "promos": {
     "1.19.2-latest": "5.5",
     "1.19.4-latest": "5.5",
     "1.20.1-latest": "5.5",
-    "1.21.1-latest": "5.5",
+    "1.21.1-latest": "5.6",
+    "1.21.4-latest": "5.6",
   }
 }
